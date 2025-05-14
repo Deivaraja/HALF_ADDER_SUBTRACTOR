@@ -60,7 +60,7 @@ xor (df,a,b);
 and (bo,~a,b);
 endmodule
 ~~~
-Developed by:MANIKANDAN M RegisterNumber:212224040183
+Developed by:DEIVARAJA R RegisterNumber:212224240031
 
 **RTL Schematic**
 
